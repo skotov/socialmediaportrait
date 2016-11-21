@@ -1,6 +1,6 @@
 # Sonya's Links
 
-## Profile 
+## Links to My Facebook Profile 
 ### Entire Profile (n = 7)
 * https://www.facebook.com/sonya.kotova
 * https://www.facebook.com/sonya.kotova
@@ -40,7 +40,7 @@
 * https://www.facebook.com/sonya.kotova/tv
 * https://www.facebook.com/sonya.kotova/videos
 
-## Data 
+## Links to My Data 
 
 ### Individual Posts (n = 1)
 * https://www.facebook.com/sonya.kotova/posts/10154722252401967
@@ -70,7 +70,7 @@
 * https://www.facebook.com/photo.php?fbid=10210176784356901&set=rpd.780646966&type=3
 * https://www.facebook.com/photo.php?fbid=10154444314456967&set=rpd.780646966&type=3
 
-## Friend Profiles (n = 12 friends)
+## Links to Friends' Profiles (n = 12 friends)
 Note: friends have been anonymized by replacing their vanity URLs with /custom_URL_n
 
 ### Anon. Friend 1 
@@ -109,7 +109,7 @@ Note: friends have been anonymized by replacing their vanity URLs with /custom_U
 * https://www.facebook.com/UniversityOfMichigan/?ref=br_rs
 * https://www.facebook.com/pages/University-of-Michigan/109551572397323?ref=br_rs
 
-## Landing Pages
+## Links to Landing Pages
 
 ### Newsfeed (n = 3)
 * https://www.facebook.com/sonya.kotova#newsFeedHeading 
@@ -129,7 +129,7 @@ Note: friends have been anonymized by replacing their vanity URLs with /custom_U
 * https://www.facebook.com/?sk=ff
 
 
-## Account Admin
+## Links to Account Admin
 
 ### Settings (n = 3)
 * https://www.facebook.com/settings?tab=notifications&section=on_facebook
@@ -139,7 +139,7 @@ Note: friends have been anonymized by replacing their vanity URLs with /custom_U
 ### Misc. Admin (n = 1)
 * https://www.facebook.com/sonya.kotova/approve?log_filter=review
 
-## FAQ/Information
+## Links to FAQ/Information
 
 ### Misc. (n = 6)
 * https://www.facebook.com/about/basics/
