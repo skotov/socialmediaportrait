@@ -1,13 +1,12 @@
 # Erik's Links
 
 ## Related to Sonya's Account (n = 0)
-*
 
 ## Landing Pages 
 ### Newsfeed (n = 2)
 * https://www.facebook.com/?ref=logo
 * https://www.facebook.com/?ref=tn_tnmn
-* `#newsFeedHeading`
+* #newsFeedHeading
 ### Messages (n = 2)
 * /messages/new/
 * https://www.facebook.com/messages/
