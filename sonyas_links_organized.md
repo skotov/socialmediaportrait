@@ -9,6 +9,7 @@
 * https://www.facebook.com/sonya.kotova
 * https://www.facebook.com/sonya.kotova?fref=nf
 * https://www.facebook.com/sonya.kotova?fref=nf
+
 ### Misc. Profile Components (n = 28)
 * https://www.facebook.com/sonya.kotova/about
 * https://www.facebook.com/sonya.kotova/about
@@ -40,14 +41,17 @@
 * https://www.facebook.com/sonya.kotova/videos
 
 ## Data 
+
 ### Individual Posts (n = 1)
 * https://www.facebook.com/sonya.kotova/posts/10154722252401967
+
 ### Rections to a Post (n = 5)
 * https://www.facebook.com/ufi/reaction/profile/browser/?ft_ent_identifier=10153952587666471&av=780646966
 * https://www.facebook.com/ufi/reaction/profile/browser/?ft_ent_identifier=10153952587666471&av=780646966
 * https://www.facebook.com/ufi/reaction/profile/browser/?ft_ent_identifier=10153952587666471&av=780646966
 * https://www.facebook.com/ufi/reaction/profile/browser/?ft_ent_identifier=10154722252401967&av=780646966
 * https://www.facebook.com/ufi/reaction/profile/browser/?ft_ent_identifier=10154722252401967&av=780646966
+
 ### Individual Photos (n = 16)
 * https://www.facebook.com/photo.php?fbid=10153730307556967&set=a.10151192355441967.500174.780646966&type=3
 * https://www.facebook.com/photo.php?fbid=10154435011366967&set=a.472583751966.275678.780646966&type=3&source=11
@@ -68,14 +72,17 @@
 
 ## Friend Profiles (n = 12 friends)
 Note: friends have been anonymized by replacing their vanity URLs with <custom_URL>
-### Anon. Friend 1 (mercedes)
+
+### Anon. Friend 1 
 * https://www.facebook.com/<custom_URL>?fref=nf
 * https://www.facebook.com/<custom_URL>
 * https://www.facebook.com/<custom_URL>/posts/10153952587666471
+
 ### Anon. Friend 2
 * https://www.facebook.com/<custom_URL_2>?fref=nf
 * https://www.facebook.com/<custom_URL_2>/posts/10155448639198761
 * https://www.facebook.com/<custom_URL_2>/posts/10155448639198761
+
 ### Remaining Anon. Friends (all unique)
 * https://www.facebook.com/<custom_URL_3>
 * https://www.facebook.com/<custom_URL_4>
@@ -103,30 +110,37 @@ Note: friends have been anonymized by replacing their vanity URLs with <custom_U
 * https://www.facebook.com/pages/University-of-Michigan/109551572397323?ref=br_rs
 
 ## Landing Pages
+
 ### Newsfeed (n = 3)
 * https://www.facebook.com/sonya.kotova#newsFeedHeading 
 * https://www.facebook.com/?ref=logo
 * https://www.facebook.com/?ref=tn_tnmn
+
 ### Messages (n = 2)
 * https://www.facebook.com/messages/new/
 * https://www.facebook.com/messages/
+
 ### Notifications (n = 2)
 * https://www.facebook.com/notifications
 * https://www.facebook.com/notifications
+
 ### Friend Requests (n = 2)
 * https://www.facebook.com/friends/requests/?fcref=jwl
 * https://www.facebook.com/?sk=ff
 
 
 ## Account Admin
+
 ### Settings (n = 3)
 * https://www.facebook.com/settings?tab=notifications&section=on_facebook
 * https://www.facebook.com/settings/?tab=privacy&privacy_source=privacy_lite
 * https://www.facebook.com/settings?ref=mb&drop
+
 ### Misc. Admin (n = 1)
 * https://www.facebook.com/sonya.kotova/approve?log_filter=review
 
 ## FAQ/Information
+
 ### Misc. (n = 6)
 * https://www.facebook.com/about/basics/
 * https://www.facebook.com/help/?ref=privacy_lite
@@ -134,10 +148,10 @@ Note: friends have been anonymized by replacing their vanity URLs with <custom_U
 * https://www.facebook.com/help/cookies?ref_type=sitefooter
 * https://www.facebook.com/policies?ref=pf
 * https://www.facebook.com/privacy/explanation
+
 ### About Facebook Ads (n = 5)
 * https://www.facebook.com/campaign/landing.php?placement=egot&campaign_id=366925476690229&extra_1=auto
 * https://www.facebook.com/campaign/landing.php?placement=advf2&campaign_id=368901427978&extra_1=auto
 * https://www.facebook.com/campaign/landing.php?placement=egot&campaign_id=366925476690229&extra_1=auto
 * https://www.facebook.com/campaign/landing.php?placement=egot&campaign_id=366925476690229&extra_1=auto
 * https://www.facebook.com/campaign/landing.php?placement=pf_rhc&campaign_id=242449722530626&extra_1=auto
-
