@@ -1,4 +1,4 @@
-# A Portrait of a Social Media User: Results
+# A Portrait of a Social Media User
 
 ## Introduction
 In the first chapter of his book “You Are Not A Gadget”, Jaron Lanier argues that technology has an immense impact on human experience. Technology’s impact is so strong that it even plays a role in defining what it means to be human. I further explore this idea in the context of Facebook’s software, specifically the links embedded in my Facebook profile. My goal was to further explore how this small set of data can be used to define me as a human user of the social networking service.
@@ -6,7 +6,7 @@ In the first chapter of his book “You Are Not A Gadget”, Jaron Lanier argues
 I chose links for my portrait because they are critical in determining relationships between a user and the rest of their social network. In graph theory, most information about a given node comes from the nature of it’s connections to other nodes - it is rarely useful on it’s own. Thus, it seemed fitting to reduce my profile to a list of links - the means by which web pages connect to other web pages.
 
 ## Experiment Setup
-I compared two HTML files, both downloaded by saving my Facebook profile (right click > save as). I downloaded the first HTML file myself. To get the second one, I asked my boyfriend to download a version of my profile. I was curious to see if Facebook presents my identity differently depending on who is looking. I then analyzed the two HTML files by writing a python script to extract all the links from the HTML.
+I compared two HTML files, both downloaded by saving my Facebook profile (right click > save as). I downloaded the first HTML file myself. To get the second one, I asked my boyfriend, Erik, to download a version of my profile. I was curious to see if Facebook presents my identity differently depending on who is looking. I then analyzed the two HTML files by writing a python script to extract all the links from the HTML.
 
 ## Results
 The links embedded in my profile’s HTML did not contain too many surprises. My profile contains links to other components of my profile (`/friends`, `/music`, `/movies`, `/tv`…) and to the profiles of some of my friends. One thing I found unexpected, though, is that Erik’s version of my profile was very different. It had none of the links in my profile. This is strange, since you would think a lot of the components would be the same. 
