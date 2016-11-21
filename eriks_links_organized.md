@@ -1,8 +1,8 @@
 # Erik's Links
 
-## Related to Sonya's Account (n = 0)
+## Links Related to Sonya's Account (n = 0)
 
-## Landing Pages 
+## Links to Landing Pages 
 ### Newsfeed (n = 2)
 * https://www.facebook.com/?ref=logo
 * https://www.facebook.com/?ref=tn_tnmn
@@ -18,7 +18,7 @@
 * https://www.facebook.com/notifications
 * https://www.facebook.com/notifications
 
-## Account Admin (n = 7)
+## Links to Account Admin (n = 7)
 * /me/allactivity?privacy_source=activity_log&log_filter=search
 * https://www.facebook.com/erik.ljungman
 * https://www.facebook.com/settings?tab=notifications&section=on_facebook
