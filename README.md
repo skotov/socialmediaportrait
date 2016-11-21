@@ -34,7 +34,7 @@ Lanier, Jaron. “Chapter 1: Missing Persons." You Are Not A Gadget. New York: A
 1. [sonyas_perspective.htm](/sonyas_perspective.htm): The version of my Facebook profile displayed to me
 2. [eriks_perspective.htm](/eriks_perspective.htm): The version of my Facebook profile displayed to my boyfriend, Erik
 3. [app.py](/app.py): Python script used to extract links from both versions of my profile
-4. [sonyas_links_organized.md](sonyas_links_organized.md): A thematically organized list of all links extracted from my version of my Facebook profile
-5. [eriks_links_organized.md](eriks_links_organized.md): A thematically organized list of all links extracted from Erik's version of my Facebook profile
+4. [sonyas_links_organized.md](sonyas_links_organized.md): Version 1 of my portrait. A thematically organized list of all links extracted from my version of my Facebook profile. 
+5. [eriks_links_organized.md](eriks_links_organized.md): Version 2 of my portrait. A thematically organized list of all links extracted from Erik's version of my Facebook profile
 4. [sonyas_links.txt](/sonyas_links.txt): Plain text list of links extracted from my version of my Facebook profile
 5. [eriks_links.txt](/eriks_links.txt): Plain text list of links extracted from Erik's version of my Facebook profile
