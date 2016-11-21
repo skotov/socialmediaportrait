@@ -71,32 +71,32 @@
 * https://www.facebook.com/photo.php?fbid=10154444314456967&set=rpd.780646966&type=3
 
 ## Friend Profiles (n = 12 friends)
-Note: friends have been anonymized by replacing their vanity URLs with <custom_URL>
+Note: friends have been anonymized by replacing their vanity URLs with /custom_URL_n
 
 ### Anon. Friend 1 
-* https://www.facebook.com/<custom_URL>?fref=nf
-* https://www.facebook.com/<custom_URL>
-* https://www.facebook.com/<custom_URL>/posts/10153952587666471
+* https://www.facebook.com/custom_URL_1?fref=nf
+* https://www.facebook.com/custom_URL_1
+* https://www.facebook.com/custom_URL_1/posts/10153952587666471
 
 ### Anon. Friend 2
-* https://www.facebook.com/<custom_URL_2>?fref=nf
-* https://www.facebook.com/<custom_URL_2>/posts/10155448639198761
-* https://www.facebook.com/<custom_URL_2>/posts/10155448639198761
+* https://www.facebook.com/custom_URL_2?fref=nf
+* https://www.facebook.com/custom_URL_2/posts/10155448639198761
+* https://www.facebook.com/custom_URL_2/posts/10155448639198761
 
 ### Remaining Anon. Friends (all unique)
-* https://www.facebook.com/<custom_URL_3>
-* https://www.facebook.com/<custom_URL_4>
-* https://www.facebook.com/<custom_URL_5>
-* https://www.facebook.com/<custom_URL_6>
-* https://www.facebook.com/<custom_URL_7>
-* https://www.facebook.com/<custom_URL_8>
-* https://www.facebook.com/<custom_URL_9>
-* https://www.facebook.com/<custom_URL_10>
-* https://www.facebook.com/<custom_URL_11>
-* https://www.facebook.com/<custom_URL_12>
+* https://www.facebook.com/custom_URL_3
+* https://www.facebook.com/custom_URL_4
+* https://www.facebook.com/custom_URL_5
+* https://www.facebook.com/custom_URL_6
+* https://www.facebook.com/custom_URL_7
+* https://www.facebook.com/custom_URL_8
+* https://www.facebook.com/custom_URL_9
+* https://www.facebook.com/custom_URL_10
+* https://www.facebook.com/custom_URL_11
+* https://www.facebook.com/custom_URL_12
 
 ## Non-Friend Profiles (n = 1)
-* https://www.facebook.com/<non_friend_custom_URL_1>
+* https://www.facebook.com/non_friend_custom_URL_1
 
 ## Other Facebook Pages (n = 9)
 * https://www.facebook.com/pages/Ann-Arbor-Michigan/105479049486624
