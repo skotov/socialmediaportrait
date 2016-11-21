@@ -6,6 +6,7 @@ In the first chapter of his book “You Are Not A Gadget”, Jaron Lanier argues
 I chose links for my portrait because they are critical in determining relationships between a user and the rest of their social network. In graph theory, most information about a given node comes from the nature of it’s connections to other nodes - it is rarely useful on it’s own. Thus, it seemed fitting to reduce my profile to a list of links - the means by which web pages connect to other web pages.
 
 I made two versions of the portrait based off of two different versions of my Facebook profile:
+
 1) [sonyas_links_organized.md](My profile as viewed by myself) (i.e. logged in as myself)
 2) [eriks_links_organized.md](My profile as viewed by someone else) (i.e. logged in, but not as myself)
 
