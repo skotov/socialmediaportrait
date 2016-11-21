@@ -7,8 +7,8 @@ I chose links for my portrait because they are critical in determining relations
 
 I made two versions of the portrait based off of two different versions of my Facebook profile:
 
-1. [sonyas_links_organized.md](My profile as viewed by myself) (i.e. logged in as myself)
-2. [eriks_links_organized.md](My profile as viewed by someone else) (i.e. logged in, but not as myself)
+1. [My profile as viewed by myself](/sonyas_links_organized.md) (i.e. logged in as myself)
+2. [My profile as viewed by someone else](/eriks_links_organized.md) (i.e. logged in, but not as myself)
 
 ## Experiment Setup
 I compared two HTML files, both downloaded by saving my Facebook profile (right click > save as). I downloaded the first HTML file myself. To get the second one, I asked my boyfriend, Erik, to download a version of my profile. I was curious to see if Facebook presents my identity differently depending on who is looking. I then analyzed the two HTML files, in part by writing a python script to extract all the links from the HTML.
