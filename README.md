@@ -1,5 +1,7 @@
 # A Portrait of a Social Media User
 
+![screenshot of my facebook profile](/Profile.png)
+
 ## Introduction
 In the first chapter of his book “You Are Not A Gadget”, Jaron Lanier argues that technology has an immense impact on human experience. Technology’s impact is so strong that it even plays a role in defining what it means to be human. I further explore this by creating a portrait of myself, as defined by Facebook’s software. More specifically, I extracted all the links in the HTML of my Facebook profile. My goal was to further explore how this data can be used to define me as a human user of the social networking service.
 
